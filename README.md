@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-I am a GenAI Engineer based in Noida, currently driving technical implementations for a 12-member GenAI initiative at **Xceedance India**. My core focus lies in building autonomous, agentic AI systems and enterprise-grade applications. I specialize in bridging the gap between advanced LLM workflows and highly scalable full-stack infrastructure. 
+I am a GenAI Engineer based in Noida, currently driving technical implementations for  GenAI initiative at **Xceedance India**. My core focus lies in building autonomous, agentic AI systems and enterprise-grade applications. I specialize in bridging the gap between advanced LLM workflows and highly scalable full-stack infrastructure. 
 
 Beyond application development, I have a deep foundation in algorithmic problem-solving. I have successfully tackled over 500 coding challenges across LeetCode, GeeksforGeeks, and Coding Ninjas, and secured a Global Rank of 214 in CodeChef (Division 3).
 
